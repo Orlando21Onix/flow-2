@@ -13,3 +13,5 @@ _recuerda iniciar sesión en caso de ser necesario por segunda ocasión_
 _tercera actividad_
 **Uso de Plugin Github**
 Recuerda revisar los cambios para posterior hacer pull request
+
+Tercer mensaje de configuración para el uso de Plugin de _GitHub_
