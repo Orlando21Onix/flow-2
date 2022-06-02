@@ -15,8 +15,8 @@ _tercera actividad_
 Recuerda revisar los cambios para posterior hacer pull request
 
 Tercer mensaje de configuración para el uso de Plugin de _GitHub_
-<<<<<<< HEAD
+###HEAD
 Cuarto ejercicio de modificación, recordar siempre; al editar de Readme.md
 debemos guardar los cambios
-***Posteriormente debemos dirigirnos a la verificación del comentario, selecionando pull and request para que el sincronizador observe las modificaciones y asi logremos hacer el commit
+###Posteriormente debemos dirigirnos a la verificación del comentario, selecionando pull and request para que el sincronizador observe las modificaciones y asi logremos hacer el commit###
 Por ultimo hacer push con pull creando el comentario
