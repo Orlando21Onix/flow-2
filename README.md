@@ -10,4 +10,5 @@ Texto de **ejemplo** creado para la actividad de gitHub y de NodeRED
 <<<Este ejercicio emplea el uso de Source Control
 _recuerda iniciar sesión en caso de ser necesario por segunda ocasión_
 
-**Uso de Plugin Githu
+**Uso de Plugin Github 
+Recuerda revisar los cambios para posterior hacer pull request
