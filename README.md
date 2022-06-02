@@ -11,5 +11,5 @@ Texto de **ejemplo** creado para la actividad de gitHub y de NodeRED
 _recuerda iniciar sesión en caso de ser necesario por segunda ocasión_
 
 _tercera actividad_
-**Uso de Plugin Github 
+**Uso de Plugin Github**
 Recuerda revisar los cambios para posterior hacer pull request
